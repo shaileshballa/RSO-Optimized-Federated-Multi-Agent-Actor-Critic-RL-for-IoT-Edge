@@ -1,5 +1,5 @@
 # 🧠 RSO-Optimized Federated Multi-Agent Actor-Critic RL for IoT Edge
-This repository contains an implementation of a **Federated Multi-Agent Actor-Critic (FMAC) Reinforcement Learning model**, enhanced using **Red Fox Sparrow Optimization (RSO)** for hyperparameter tuning and stabilization. The objective is to dynamically optimize **latency, energy consumption, and throughput** across IoT edge devices during real-time computation and task scheduling.
+This repository contains an implementation of a **Federated Multi-Agent Actor-Critic (FMAC) Reinforcement Learning model**, enhanced using **Rat Swarm Optimization (RSO)** for hyperparameter tuning and stabilization. The objective is to dynamically optimize **latency, energy consumption, and throughput** across IoT edge devices during real-time computation and task scheduling.
 
 ---
 
